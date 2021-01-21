@@ -25,7 +25,7 @@ gem 'semantic-ui-sass'
 # Rails 5 does not have jquery support so we should add the gem for the same
 gem 'jquery-rails'
 # Use Redis adapter to run Action Cable in production
-# gem 'redis', '~> 4.0'
+gem 'redis', '~> 4.0'
 # Use ActiveModel has_secure_password
 gem 'bcrypt', '~> 3.1.7'
 # Show the table info in a systematic tabular format
